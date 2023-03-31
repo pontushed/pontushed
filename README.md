@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pontus Hedlund
-- 👀 I’m interested in Full Stack development, Machine Learning and AI
+- 👀 I'm doing Full Stack development, Data Engineering, Machine Learning and AI
 - 🌱 I’m currently pursuing a master's degree in Data Science at University of Helsinki and working as an Air Traffic Controller for Fintraffic
 
 <!---
